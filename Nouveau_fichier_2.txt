@@ -1,1 +1,2 @@
 Ceci est le nouveau fichier numéro 2
+Modification de fichier 2
